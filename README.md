@@ -1,3 +1,3 @@
 # jenkinsdocker
-Bootstrap jenkins for disaster recovery and accountability
+Bootstrap jenkins for disaster recovery and accountability for dockerised jenkins
 
