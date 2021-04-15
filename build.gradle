@@ -10,7 +10,7 @@ plugins {
 project.version = scmVersion.version
 
 docker {
-    name "${project.name}:${project.version}"
+    name "${project.name}:1.1"
     files "plugins.txt","seedJob.xml"
 }
 
